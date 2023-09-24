@@ -1,7 +1,7 @@
-###Nodejs_Internet_Deployment
+**Nodejs_Internet_Deployment**
 Public
 
-#Hướng dẫn deploy ứng dụng Node JS:
+**Hướng dẫn deploy ứng dụng Node JS:**
 - Deploy trên local: Mở VS Code ngay tại thư mục gốc của project, mở terminal và nhập `npm install` (Lưu ý: Phải cài đặt Node JS trên máy trước), chờ vài phút và nhập `npm start`, ứng dụng sẽ được chạy trên local với port 3000 (http://localhost:3000/).
 
   

@@ -6,7 +6,7 @@ Public
 
   
 - Deploy trên Internet: Clone 1 Node JS App Repository về, kết nối tài khoảng Render.com với Github, tạo Web Service trên Render.com và dùng Repository đã clone để build. Điền như sau:
-- 
+  
   +Name: URL muốn tạo
   
   +Root Directory: . (Dấu chấm)
